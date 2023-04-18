@@ -5,4 +5,3 @@ Realistic_Police.FiningPolice[1] = {
     ["Category"] = "General", -- la categorie
 }
 
--- Dev par AtsumiFlex
