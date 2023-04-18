@@ -4,3 +4,5 @@ Realistic_Police.FiningPolice[1] = {
     ["Vehicle"] = false, -- peut être mis sur une voiture
     ["Category"] = "General", -- la categorie
 }
+
+-- Dev par AtsumiFlex
